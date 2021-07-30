@@ -11,7 +11,7 @@
       <img src="/zhengjianzhao.JPG" width="100%">  
     </td>
   </tr>
- </table>
+</table>
 ###Education 
 ####PhD in Statistics 
 ####Department of Statistics, The Chinese University of Hong Kong(2021-now) 
