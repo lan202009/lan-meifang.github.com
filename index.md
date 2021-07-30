@@ -18,7 +18,7 @@
 ####Supervisor: Prof. LIN, Yuanyuan
 ####Master in Probability and Mathematical Statistics 
 ####School of Mathematical Science, Zhejiang University(2018-2021) 
-####Supervisor: Prof. SU Zhonggen
+####Supervisor: Prof. SU, Zhonggen
 ####Bachelor in Statistics 
 ####School of Mathematical, Shandong University(2014-2018)
 ###Experience and Honors 
