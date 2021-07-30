@@ -7,7 +7,7 @@
       <p><b>E-mail：924185149@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/LanMeifang_photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
