@@ -8,10 +8,10 @@
       <p><b>E-mail：924185149@qq.com</b></p>      
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.JPG" width="100%">  
+      <img src="zhengjianzhao.JPG" width="100%">  
     </td>
   </tr>
-</table>
+</table> 
 <h1>Education </h1>
 <p><b>PhD in Statistics </b></p>
 <p><b>Department of Statistics, The Chinese University of Hong Kong(2021-now) </b></p>
