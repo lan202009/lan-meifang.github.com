@@ -11,7 +11,7 @@
       <img src="zhengjianzhao.JPG" width="100%">  
     </td>
   </tr>
-</table> == $0
+</table> 
 <h1>Education </h1>
 <p><b>PhD in Statistics </b></p>
 <p><b>Department of Statistics, The Chinese University of Hong Kong(2021-now) </b></p>
